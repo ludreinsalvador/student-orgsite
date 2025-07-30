@@ -81,7 +81,7 @@ student-orgsite/
 └── package-lock.json               # Dependency lock file
 ```
 
-## 🔧 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 - Node.js (v14 or higher)
