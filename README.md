@@ -1,6 +1,6 @@
 # Student Organization Website | Web Development Finals Project
 
-A comprehensive web application for managing student organizations and their members. This platform provides functionality for student registration and organization management.
+A web application for managing student organizations and their members. This platform provides functionality for student registration and organization management.
 
 ## Application Preview
 
