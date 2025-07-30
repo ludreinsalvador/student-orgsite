@@ -39,7 +39,7 @@ A web application for managing student organizations and their members. This pla
 - **Styling**: CSS3 with custom stylesheets
 - **Architecture**: MVC (Model-View-Controller) pattern
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 student-orgsite/
