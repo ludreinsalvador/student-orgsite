@@ -22,15 +22,6 @@ A web application for managing student organizations and their members. This pla
 ### Student List
 ![Dashboard](documentation/the-adlm-webdev-finals-6.png)
 
-## Features
-
-- **Student Management**: Register and manage student profiles
-- **Organization Management**: Create and manage student organizations
-- **User Authentication**: Secure login and registration system
-- **Responsive Design**: Mobile-friendly interface
-- **Database Integration**: SQLite database for data persistence
-- **RESTful API**: Clean API endpoints for data operations
-
 ## Technology Stack
 
 - **Backend**: Node.js with Express.js framework
